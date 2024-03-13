@@ -4,7 +4,7 @@ date: "2024-03-12 20:00:00"
 thumbnail: "/assets/img/thumbnail/job_hunting_sucks_thumbail.jpg"
 ---
 
-# Rant on 2024's Job Hunt •
+# --Rant on 2024's Job Hunt--
 ---
 Well, it's quite unfortunate but in December of 2023 I got laid off and received the lovely privilege of being promoted to possible future customer with my former employer.
 
