@@ -1,21 +1,21 @@
-title: Example.com
-description: "Satellite - jekyll blog theme"
+title: Nate's Dumb Blog
+description: "A place for my unhinged thoughts"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: ncasados@live.com
+github_username: marth141
+twitter_username: cmdr_kero
+# instagram_username: instagram
+linkedin_username: ncasados
+# facebook_username: facebook
 
 # External API
-giscus_repo:
-giscus_repoId:
-giscus_category:
-giscus_categoryId:
+giscus_repo: "marth141/marth141.github.io"
+giscus_repoId: "R_kgDOLfkAgA"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOLfkAgM4Cd7p7"
 goatcounter_code:
 google_analytics:
 
