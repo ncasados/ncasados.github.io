@@ -4,7 +4,9 @@ date: "2024-03-14 23:00:00"
 thumbnail: "/assets/img/thumbnail/pillars_of_creation.webp"
 ---
 
-# --FITS files and where to get them--
+Astropy exists for being able to utilize FITS files however I think it would be really cool to have it in Elixir.
+
+# FITS files and where to get them
 ---
 I happen to be a bit of an astronomy nerd.
 
