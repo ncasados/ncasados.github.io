@@ -46,6 +46,10 @@ Now this structure will likely change from what I'm showing in this article, but
 
 None of that would be possible without the fact that GenServers, Registries, and DynamicSupervisors exist and I find myself while building out the program and debugging just going and creating a new poker game and running through it. Make some changes, make a new game, validate changes--wash, rinse, repeat.
 
+Now continuing with the GenServer, because it's a server, we can send it messages like, "Hey man, in the 'Eevee' game, player 1 had just bet 400."
+
+Then the GenServer can handle the processing for making 400 leave player 1's wallet, go into the pot, and move onto the next player. Really cool stuff!
+
 # Some of the Challenges
 ---
 Now probably the biggest challenge that I found myself encountering while building out this thing was figuring out how to handle sidepots, and managing whose turn it is. 
