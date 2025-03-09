@@ -1,7 +1,6 @@
 ---
-title: "Some Thoughts on Building Bet Buddies Part 1"
-date: "2024-03-19 11:00:00"
-thumbnail: "/assets/img/thumbnail/playing-cards.jpg"
+title: "Looking Back on my 2024 Job"
+date: "2025-03-08 08:00:00"
 -------------------------------------------------------------------------------
 
 Just some thoughts on the start of this year and reviewing the last year.
