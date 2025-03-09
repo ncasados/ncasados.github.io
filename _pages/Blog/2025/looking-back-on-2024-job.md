@@ -1,7 +1,7 @@
 ---
 title: "Looking Back on my 2024 Job"
 date: "2025-03-08 08:00:00"
-thumbnail: "/assets/img/thumbnail/job_hunting_sucks_thumbail.jpg"
+thumbnail: "/assets/img/thumbnail/looking-back-1.jpg"
 ---
 
 Just some thoughts on the start of this year and reviewing the last year.
