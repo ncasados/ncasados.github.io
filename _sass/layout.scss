@@ -1,6 +1,8 @@
+@use 'sass:map';
+
 @mixin mq($name) {
   // Retrieves the value from the key
-  $value:map-get($mediawd, $name);
+  $value:map.get($mediawd, $name);
 
   // If the key exists in the map
   @if $value {
