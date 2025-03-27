@@ -68,6 +68,8 @@ And honestly? I’m excited. People have told me they see value in these tutoria
 Also, a highlight from today:  
 I had an interview with **Kuali**! It went really well, and there was a live coding section I actually felt confident in. I credit that to the practice I’ve gotten recording videos and explaining code aloud. Fingers crossed I move to the next round—but if not, I’m still in a good spot. I took the canvassing job because I *wanted* to, not because I had to.
 
+I got to also mention, the interviewer had told me at the end not to give up. He can see that I am an engineer and maybe my skill might not be at a particular place, but it's there. This fills me with determination and inspiration. Thank you interviewer! You know who you are if you're reading this. Thank you!
+
 If things don’t pan out, I’m open to exploring trades like HVAC. Sales sounded interesting, but I’m not sure it’s for me. Canvassing is a great, low-stakes way to test the waters.
 
 The weather’s been beautiful—green grass, blue skies, warm sun. Feels like the start of something. And speaking of starts—I owe a big shoutout to Jason Brown from the UK. He helped me polish my resume, and I’m certain his advice helped land me the Kuali interview. Jason knows the Elixir hiring space cold. If this leads to a job, he’s getting a big thank-you.
