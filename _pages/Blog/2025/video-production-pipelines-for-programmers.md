@@ -1,7 +1,7 @@
 ---
 title: "The End of March, Looking Forward to April"
 date: "2025-03-26 18:00:00"
-thumbnail: "/assets/img/thumbnail/how_does_video.jpg"
+thumbnail: "/assets/img/thumbnail/how_does_video.png"
 ---
 
 In my last post, I talked about maybe trying out tutorial video production—and honestly, I’m having a nice time with it. Like anything new, though, there have been plenty of challenges.
